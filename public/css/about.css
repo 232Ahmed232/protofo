@@ -1,0 +1,25 @@
+.abt{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.abt span{
+    font-weight: bolder;
+    color: aqua;
+    font-size: larger;
+    text-decoration: underline;
+    
+}
+
+.content{
+    margin: 39px auto;
+    width: 71%;
+    text-align: center;
+    background-color: aqua;
+    border: 2px solid blue;
+    padding: 45px;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}

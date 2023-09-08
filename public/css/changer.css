@@ -1,0 +1,47 @@
+.changer{
+    opacity: 100%;
+}
+.img{
+    background-image: url('/img/men/1.jpg');
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.img:hover{
+    opacity: 50%;
+}
+
+.img:hover .changer{
+    opacity: 100%;
+}
+
+.img:hover .view{
+    opacity: 100%;
+    display: block;
+}
+
+
+
+.btn {
+    position: relative;
+    margin: 0 15px;
+    padding: 25px;
+    border-radius: 50%;
+    font-weight: bolder;
+}
+
+
+.view{
+    cursor: pointer;
+display: none;
+ padding: 25px;
+ font-weight: bold;
+ font-size: large;
+ background-color: aqua;
+ border: 1px solid blue;
+}
+
+

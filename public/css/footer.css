@@ -1,0 +1,23 @@
+.footer{
+    margin-top: 5px;
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.bar{
+    position: relative;
+    left: 38%;
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bar a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 5px 0;
+}
